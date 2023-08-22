@@ -1,8 +1,9 @@
 # Cafeteria
 Meu site de cafeteria online
 
-- item 1
-- item 2
-- item 3
+Desenvolvedores: 
+ - Fabricio Bizotto
+ - Outro Autor
 
-!(Google)[https://www.google.com]
+Teste
+teste
